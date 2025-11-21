@@ -1,0 +1,7 @@
+{
+  "name": "字宝宝 - 汉字查询助手",
+  "description": "专为小学生设计的汉字查询工具。语音提问，即刻显示田字格大字。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
